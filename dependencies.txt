@@ -1,0 +1,7 @@
+# Main
+
+* Sddm - Login Manager
+* Hyprland - Window Manager
+* Waybar - Status Bar
+* Kitty - Default Terminal
+ 
